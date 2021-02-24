@@ -33,7 +33,8 @@ Currently, I work as a TA for the same bootcamp and have discovered a new love f
 <a href="https://github.com/the-medium-place/audio-react" target="_blank">![](https://img.shields.io/static/v1?label=&logo=github&message=Repository&color=blue)</a>
 <a href="https://zgstowell-audiology.herokuapp.com" target="_blank">![](https://img.shields.io/static/v1?label=&logo=heroku&message=Deployed&color=purple)</a>
 <img src="https://i.imgur.com/sNkzfnw.png" width="30%" align="right">
-  * The parents of children with hearing impairment often receive stacks of data and information that does nothing to help them understand what their child is hearing in the world around them. This (as-yet-unnamed) application aims to help these parents by interpreting all that data and outputing filtered audio files - showing an approximation of what their child hears. 
+
+The parents of children with hearing impairment often receive stacks of data and information that does nothing to help them understand what their child is hearing in the world around them. This (as-yet-unnamed) application aims to help these parents by interpreting all that data and outputing filtered audio files - showing an approximation of what their child hears. 
  
   * #### Looking for Help:
 
