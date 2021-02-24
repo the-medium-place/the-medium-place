@@ -36,7 +36,6 @@ Currently, I work as a TA for the same bootcamp and have discovered a new love f
 
 The parents of children with hearing impairment often receive stacks of data and information that does nothing to help them understand what their child is hearing in the world around them. This (as-yet-unnamed) application aims to help these parents by interpreting all that data and outputing filtered audio files - showing an approximation of what their child hears. 
  
-  * #### Looking for Help:
-
-    * Any audio engineers or developers with extended experience in the Web Audio API - your input is welcome!
+#### Looking for Help:
+   * Any audio engineers or developers with extended experience in the Web Audio API - your input is welcome!
 <hr>
