@@ -1,6 +1,6 @@
 <!-- <div width="100%" height="100%" bgcolor="black"> -->
 
-## Zac Stowell
+## Hi, I'm Zac Stowell and <em>I Love To Code</em>
 ### He/Him || Full-Stack Developer || Freelance Musician || T1D
   
 <a href="https://twitter.com/zgstowell" target="_blank">![twitter](https://img.shields.io/twitter/follow/zgstowell?style=social)</a>
